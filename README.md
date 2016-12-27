@@ -34,7 +34,6 @@ $ npm run start-page apage
 ```sh
 $ npm run build
 ```
-静态资源不会将react源码及css打包，最终产出为一个js文件一个css文件。使用时需将react及css文件在标签中引入。
 
 
 ## 项目结构
